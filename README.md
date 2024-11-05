@@ -12,9 +12,9 @@ Langkah-Langkah
 3. Jalankan server ionic untuk mengecek proses login.
 4. Masukkan password dan username yang telah kita input di database.
 5. Proses Login berhasil
-![image](https://github.com/user-attachments/assets/6563bd19-289a-40d8-9a31-7add526d7130)
-![image](https://github.com/user-attachments/assets/e5ef22b0-c7b0-4547-99db-06ae19129c37)
-![image](https://github.com/user-attachments/assets/f6d618b6-ef2b-4284-8508-5320226c4260)
-![image](https://github.com/user-attachments/assets/c05d61bf-ee1b-4fd7-9c54-3ee5dd09e624)
-![image](https://github.com/user-attachments/assets/98da05db-d7f6-4098-8c74-a3041b484aad)
+![Screenshot 2024-11-05 164023](https://github.com/user-attachments/assets/49e9c7f9-1db4-45f6-9184-2f461876483b)
+![Screenshot 2024-11-05 164134](https://github.com/user-attachments/assets/d076b550-0eff-413e-8cba-a3d063091225)
+![Screenshot 2024-11-05 171322](https://github.com/user-attachments/assets/20521dff-3d9f-44c9-80df-83d593f678ae)
+![Screenshot 2024-11-05 164432](https://github.com/user-attachments/assets/dc2728ae-2765-4a7e-b6b1-b6b53d3172fc)
+![Screenshot 2024-11-05 164513](https://github.com/user-attachments/assets/aefa4194-9704-46e6-8dae-8f8adb1fda5f)
 
